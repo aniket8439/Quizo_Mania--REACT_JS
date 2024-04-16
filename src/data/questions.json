@@ -1,0 +1,53 @@
+[
+    {
+      "text": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Rome"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "text": "Who wrote 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "F. Scott Fitzgerald"],
+      "correctAnswer": "William Shakespeare"
+    },
+    {
+      "text": "What is the largest mammal?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Hippo"],
+      "correctAnswer": "Blue Whale"
+    },
+    {
+      "text": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+      "correctAnswer": "Mars"
+    },
+    {
+      "text": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "NaCl", "C6H12O6"],
+      "correctAnswer": "H2O"
+    },
+    {
+      "text": "Who painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+      "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+      "text": "What is the largest ocean on Earth?",
+      "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+      "correctAnswer": "Pacific Ocean"
+    },
+    {
+      "text": "Who was the first President of the United States?",
+      "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+      "correctAnswer": "George Washington"
+    },
+    {
+      "text": "What is the capital of Japan?",
+      "options": ["Tokyo", "Beijing", "Seoul", "Bangkok"],
+      "correctAnswer": "Tokyo"
+    },
+    {
+      "text": "What is the tallest mountain in the world?",
+      "options": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+      "correctAnswer": "Mount Everest"
+    }
+  ]
+  
